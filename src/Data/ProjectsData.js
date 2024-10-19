@@ -12,7 +12,7 @@ const DUMMY_PROJECTS=[
     {
         projectTitle:'PortFolio',
         description: 'A personal portfolio website built with React.js, featuring dynamic content, smooth navigation, and a responsive design to showcase projects & skills.',
-        sourceLink:'https://github.com/killer-abhi/Portfolio.git',
+        sourceLink:'https://github.com/Anamika-kailey/Portfolio.git',
     }
     
 ];
