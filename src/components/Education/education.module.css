@@ -93,6 +93,10 @@
     .education{
         padding-top: 0rem;
     }
+    .codingInfo{
+        width: 100%;
+        /* justify-content: space-evenly; */
+    }
     .educationHeader{
         flex-direction: column;
         width: 90%;
@@ -124,12 +128,17 @@
     .progressBar label{
         /* text-align: center; */
         width: 30%;
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
-    .progressBar progress{
-        width: 70%;
-        height: 1.5rem;
+    .progressBar h4{
+        width: 60%;
+        font-size: 1rem;
     }
+    .progressBar h5{
+        font-size: 1rem;
+    }
+   
+    
 }
 
 @media (max-width:768px) {
